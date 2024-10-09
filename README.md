@@ -28,7 +28,7 @@
 
 <br>
 
-<h1><img width="30px" height="30px" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/main/assets/lab.gif" alt="HTML Tag Emoji"> Languages</h1>
+<h1><img width="30px" height="30px" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/label.gif" alt="HTML Tag Emoji"> Languages</h1>
 
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  alt="C Logo">
@@ -36,14 +36,14 @@
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo">
-<!--<img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R Logo">-->
+<img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R Logo">
 
 <br>
 <br>
 <br>
 <br>
 
-<h1> <img width="30px" height="30px" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/c3bb00eaba5e197e1ff8a0851641354cf06c7966/assets/rocket.gif" alt="Rocket Emoji"> Tools & Technologies</h1>
+<h1> <img width="30px" height="30px" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/rocket.gif" alt="Rocket Emoji"> Tools & Technologies</h1>
 
 <details align="left">
         <summary>
@@ -51,7 +51,7 @@
         </summary>
         <br>
         <p>
-        <img  width=200 style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/47faf1a268823f4e8bbec63700b74cc70f763c4c/assets/vsc.PNG" alt="Visual Studio Code Badge">
+        <img  width=200 style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/vsc.png" alt="Visual Studio Code Badge">
         <img  style="padding:10px;" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge">
         <img  style="padding:10px;" src="https://img.shields.io/badge/CLion-3A3D3E?style=for-the-badge&logo=clion&logoColor=white" alt="CLion Badge">
         <img  style="padding:10px;" src="https://img.shields.io/badge/git-FF8C00?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
@@ -111,7 +111,7 @@
         </summary>
         <br>
         <p>
-        <img width=120 style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/30182c5aac04089a27c1e2ebe4a6d72194bc02f2/assets/windows.png" alt="Windows Badge">
+        <img width=120 style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/windows.png" alt="Windows Badge">
         <img style="padding:10px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge">
         </p>
 </details>
@@ -129,7 +129,7 @@
 <br>
 <br>
 
-<h1><img width="35px" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/2a37b2ca3688b697bebd4f774c5f8b9fc901e767/assets/fire.gif" alt="Fire Emoji" >GitHub Stats</h1>
+<h1><img width="35px" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/fire.gif" alt="Fire Emoji" >GitHub Stats</h1>
 
 <br>
 <br>
