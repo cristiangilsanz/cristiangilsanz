@@ -122,6 +122,7 @@
         </summary>
         <br>
         <p>
+        <img style="padding:10px;" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge">
         <img style="padding:10px;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" >
         </p>
 </details>
