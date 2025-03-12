@@ -90,7 +90,7 @@
         </summary>
         <br>
         <p>
-                <img style="padding:10px;" src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="PL/SQL Badge">
+                <img width=93 style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/44385e7d6e67d82ab1a18b9d29e9045c1db6766f/assets/oracle.png" alt="Oracle Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra Badge">     
         </p>
