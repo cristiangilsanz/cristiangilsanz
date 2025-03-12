@@ -52,11 +52,11 @@
         <br>
         <p>
         <img  width=200 style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/vsc.png" alt="Visual Studio Code Badge">
+        <img  style="padding:10px;" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM Badge">
         <img  style="padding:10px;" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge">
         <img  style="padding:10px;" src="https://img.shields.io/badge/CLion-3A3D3E?style=for-the-badge&logo=clion&logoColor=white" alt="CLion Badge">
-        <img  style="padding:10px;" src="https://img.shields.io/badge/git-FF8C00?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
         <img  style="padding:10px;" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Badge">
-        <img  style="padding:10px;" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM Badge">
+        <img  style="padding:10px;" src="https://img.shields.io/badge/git-FF8C00?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
         </p>
 </details>
 <br>
@@ -75,11 +75,12 @@
         <br>
         <p>
                 <img style="padding:10px;" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+                <img style="padding:10px;" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="ApacheSpark Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge">
+                <img style="padding:10px;" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="PlotLy Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn Badge">
+                <img style="padding:10px;" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery Badge">
         </p>
 </details>
 <br>
@@ -123,6 +124,8 @@
         <br>
         <p>
         <img style="padding:10px;" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge">
+        <img style="padding:10px;" src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit Badge">
+        <img style="padding:10px;" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="RaspBerryPi Badge">
         <img style="padding:10px;" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge" >
         </p>
 </details>
