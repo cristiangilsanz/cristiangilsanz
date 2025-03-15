@@ -60,6 +60,7 @@
                 <img  style="padding:10px;" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Badge">
                 <img  style="padding:10px;" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge">
                 <img  style="padding:10px;" src="https://img.shields.io/badge/git-FF8C00?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+                <img  style="padding:10px;" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
                 <img  style="padding:10px;" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge">
                 <img  style="padding:10px;" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel Badge">
                 <img  style="padding:10px;" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge">
@@ -76,19 +77,33 @@
                 <b>📚 Frameworks & Libraries </b>
         </summary>
         <br>
-        <p>
-                <img  style="padding:10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
-                <img  style="padding:10px;" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS Badge">
-                <img  style="padding:10px;" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Badge">
-                <img  style="padding:10px;" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" >
-                <img style="padding:10px;" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="ApacheSpark Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="PlotLy Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy Badge">
-        </p>              
+                <p> &emsp; 💻 Frontend Development</p>
+                    <p>
+                        <img style="padding:10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
+                    </p>
+                <b>⚙️ Backend Development</b>
+                    <br>
+                    <p>
+                        <img style="padding:10px;" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS Badge">
+                        <img style="padding:10px;" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Badge">
+                        <img style="padding:10px;" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" >
+                    </p>
+                <b>📊 Data Science</b>
+                    <br>
+                    <p>
+                        <img style="padding:10px;" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+                        <img style="padding:10px;" src="https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16" alt="ApacheSpark Badge">
+                        <img style="padding:10px;" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy Badge">
+                        <img style="padding:10px;" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" alt="PlotLy Badge">
+                    </p>
+                <b>🤖 Machine Learning</b>
+                    <br>
+                    <p>
+                        <img style="padding:10px;" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+                        <img style="padding:10px;" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn Badge">
+                        <img style="padding:10px;" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy Badge">
+                        <img style="padding:10px;" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
+                    </p> 
 </details>
 <br>
 <details>
