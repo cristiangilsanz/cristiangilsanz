@@ -53,12 +53,12 @@
         <br>
         <p>&emsp; ✏️ Editors and IDEs</p>
             <p>&emsp;
-                <img width="200" style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/vsc.png" alt="Visual Studio Code Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/CLion-3A3D3E?style=for-the-badge&logo=clion&logoColor=white" alt="CLion Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm Badge">
-                <img style="padding:10px;" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge">
+                <img width="200" style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/vsc.png" alt="Visual Studio Code Badge">&emsp;
+                <img style="padding:10px;" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM Badge">&emsp;
+                <img style="padding:10px;" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm Badge">&emsp;
+                <img style="padding:10px;" src="https://img.shields.io/badge/CLion-3A3D3E?style=for-the-badge&logo=clion&logoColor=white" alt="CLion Badge">&emsp;
+                <img style="padding:10px;" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="WebStorm Badge">&emsp;
+                <img style="padding:10px;" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="Replit Badge">&emsp;
                 <img style="padding:10px;" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter Badge">
             </p>
         <p>&emsp; 🛠️ Version Control & DevOps</p>
