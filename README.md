@@ -51,7 +51,7 @@
             <b>📋 Development Tools</b>   
         </summary>
         <br>
-        <p>&emsp; 🖥️ Editors and IDEs</p>
+        <p>&emsp; ✏️ Editors and IDEs</p>
             <p>&emsp;
                 <img width="200" style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/vsc.png" alt="Visual Studio Code Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="VIM Badge">
