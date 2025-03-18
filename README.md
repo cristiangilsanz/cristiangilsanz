@@ -66,7 +66,7 @@
                 <img style="padding:10px;" src="https://img.shields.io/badge/git-FF8C00?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
             </p>
-        <p>&emsp; 💻 Frontend Development</p>
+        <p>&emsp; 🌐 Web Development</p>
             <p>
                 <img style="padding:10px;" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel Badge">
@@ -155,7 +155,7 @@
             <b>🔍 Other</b>   
         </summary>
         <br>
-        <p>&emsp; 🌐 Network & Security</p>
+        <p>&emsp; 🔐 Network & Security</p>
             <p>
                 <img style="padding:10px;" src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit Badge">
