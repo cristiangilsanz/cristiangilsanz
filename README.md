@@ -37,9 +37,9 @@
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo">
+<img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/c86ee374c6805dfe1ff7d4f811ed9be5a005889b/assets/assembly.png" alt="Assembly Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/6f37559e6088691f86a0bd547a3120a765659183/assets/VHDL.png" alt="VHDL Logo">
-<img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R Logo">
 
 <br>
 <br>
