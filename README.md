@@ -38,6 +38,8 @@
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript Logo">
 <img align="left" width="40px" style="padding:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R Logo">
+<img align="left" width="40px" style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/c86ee374c6805dfe1ff7d4f811ed9be5a005889b/assets/assembly.png" alt="Assembly Logo">
+<img align="left" width="40px" style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/c86ee374c6805dfe1ff7d4f811ed9be5a005889b/assets/vhdl.png" alt="VHDL Logo">
 
 <br>
 <br>
