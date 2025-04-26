@@ -8,7 +8,7 @@
 
 <div align="center">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&letterSpacing=2px&duration=3000&pause=750&color=2CF700&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hi%2C+I'm+Cristian+Gil;%3C!--------------------------------%3E" alt="Typing SVG">
-        <img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&size=25&letterSpacing=2px&duration=4000&pause=3000&color=2CF700&center=true&vCenter=true&repeat=false&width=1100&height=25&lines=+;Passionate+about+learning+and+embracing+new+challenges+.+.+.;Committed+to+innovative+tech+solutions." alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&letterSpacing=2px&duration=4000&pause=3000&color=2CF700&center=true&vCenter=true&repeat=false&width=1100&height=25&lines=+;Passionate+about+learning+and+embracing+new+challenges+.+.+.;Committed+to+innovative+tech+solutions." alt="Typing SVG">
 </div>
 
 <br>
