@@ -109,11 +109,13 @@
             <p>
                 <img style="padding:10px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge">
+                <img style="padding:10px;" src="https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white" alt= "Lodash Badge"
             </p>
         <p>&emsp; ⚙️ Backend Development</p>
             <p>
                 <img style="padding:10px;" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Badge">
+                <img style="padding:10px;" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Socket.IO Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
             </p>
 </details>
