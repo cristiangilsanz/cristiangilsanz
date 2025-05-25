@@ -67,6 +67,7 @@
             <p>
                 <img style="padding:10px;" src="https://img.shields.io/badge/git-FF8C00?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+                <img style="padding:10px;" src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"  alt="DockerCompose Badge">
             </p>
         <p>&emsp; 🌐 Web Development</p>
             <p>
@@ -113,6 +114,7 @@
             <p>
                 <img style="padding:10px;" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS Badge">
+                <img style="padding:10px;" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Badge">
             </p>
 </details>
 <br>
@@ -123,6 +125,7 @@
         <br>
         <p>
                 <img width=93 style="padding:10px;" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/44385e7d6e67d82ab1a18b9d29e9045c1db6766f/assets/oracle.png" alt="Oracle Badge">
+                <img src= "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" alt="Cassandra Badge">
                 <img style="padding:10px;" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis Badge">
