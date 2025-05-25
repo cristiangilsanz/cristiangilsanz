@@ -178,7 +178,6 @@
 </details>
 
 <br>
-<br>
 
 <h1><img width="35px" src="https://github.com/cristiangilsanz/cristiangilsanz/blob/0231c4fc0add875f9d769d6b5f12a775702334db/assets/fire.gif" alt="Fire Emoji" >GitHub Stats</h1>
 
